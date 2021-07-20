@@ -23,7 +23,6 @@ DOCSTRING_IGNORE_LIST = [
     "BernoulliRBM",
     "Binarizer",
     "Birch",
-    "CCA",
     "CalibratedClassifierCV",
     "CategoricalNB",
     "ClassifierChain",
